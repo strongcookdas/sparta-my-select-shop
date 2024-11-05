@@ -7,7 +7,7 @@
 >
 
 ## About My Select Shop
-
+http://ec2-15-164-232-235.ap-northeast-2.compute.amazonaws.com/
 - 네이버 쇼핑 API를 통한 상품 검색
 - 관심 상품 등록
 - 관심 상품 폴더 별 분류
