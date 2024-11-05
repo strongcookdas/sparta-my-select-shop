@@ -1,5 +1,5 @@
 package com.sparta.myselectshop.util;
-
+/*
 import com.sparta.myselectshop.entity.Product;
 import com.sparta.myselectshop.entity.User;
 import com.sparta.myselectshop.entity.UserRoleEnum;
@@ -85,3 +85,4 @@ public class TestDataRunner implements ApplicationRunner {
         return (int) ((Math.random() * (max - min)) + min);
     }
 }
+ */
